@@ -1,0 +1,1 @@
+A 3D clone of Space Invaders built in C++, SDL2 and OpenGL.
